@@ -1,5 +1,5 @@
 # House-Price-modeling_Dissertation
-Introduction   
+## Introduction   
 The dissertation proposes three models by using deep learning method(Convolutional Neural Nework) to predict the housing price inb the region of California, US. The dataset contains the two features which are Numerical data, and images corresponding to housing prices. The aim of this dissertation is to compare three models which perform better in predicting the housing price based on different dataset. 
 # Modeling Strategies   
 ## Numerical data input prediction model
