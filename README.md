@@ -1,9 +1,12 @@
 # House-Price-modeling_Dissertation
 Introduction   
-
+11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
 # Modeling Strategies   
-## Numerical   
+## Numerical  
+
 
 ## Image   
 
+
 ## Hybrid   
+
