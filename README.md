@@ -1,6 +1,6 @@
 # House-Price-modeling_Dissertation
 ## Introduction   
-House is a need and the primary source of wealth for most of the Families. This research focus on the prediction of housing price by images and numerical data for the California, US.A great amount of factors will have influences on housing price, and mutilple factors are taking into account in this dissertation.  
+House is a need and the primary source of wealth for most of the Families. This research focus on the prediction of housing price by images and numerical data for the California, US. A great amount of factors will have influences on housing price, and mutilple factors are taking into account in this dissertation.  
 Convolutional Neural Networks (CNN) method is applied to predict the housing price. Three models as listed above are based on the CNN method with Numerical data, image recongnition, and a hybrid model with feature fusion. 
 ## Research Object
 Our research goal is to compare three models' performances of predicting the housing price. 
