@@ -6,7 +6,8 @@ Convolutional Neural Networks (CNN) method is applied to predict the housing pri
 Our research goal is to compare three models' performances of predicting the housing price. 
 # Data Description 
 The dataset was obtained from the open-source website Kaggle (https://www.kaggle.com/datasets/ted8080/house-prices-and-images-socal), and it consists of both picture data and numerical data. The numerical data contains 7 conlunms adn over 15000rows, and the image data are from scraped exterior front images.   
-Columns of the numerical data 
+  
+Columns of the numerical data:
 1.	image_id: the id of the image corresponds the houses.
 2.	street: the street address of the house.
 3.	citi: the city where the house is located.
